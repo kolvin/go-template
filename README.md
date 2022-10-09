@@ -5,7 +5,6 @@
 - [go-template](#go-template)
 - [Prerequisites](#prerequisites)
 - [Run this bad boi](#run-this-bad-boi)
-- [Local container visual](#local-container-visual)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -26,9 +25,3 @@
 2. `cd <repo>`
 3. `cp .env.example`
 4. `docker-compose up`
-   
-# Local container visual
-
-![Alt text](.docs/dev-env-visual.png?raw=true "env")
-
----
